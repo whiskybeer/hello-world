@@ -1,2 +1,1 @@
-# hello-world
-this is the first change
+This is my public repo to learn
