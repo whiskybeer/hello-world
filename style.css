@@ -1,3 +1,6 @@
+body {
+    background-color: coral;
+}
 
 .links {
     background-color: rgb(255, 179, 80);
@@ -5,6 +8,3 @@
     border-radius: 5px;
     padding: 12px;
    }
-body {
-    background-color: coral;
-}
